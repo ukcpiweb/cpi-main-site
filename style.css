@@ -1,0 +1,14 @@
+/*   
+Theme Name: Center for Process Innovation
+Description: This is a wordpress theme designed for uk-cpi.com.
+Author: Dan Lee
+Author URI: http://uk-cpi.com
+*/
+
+/* Reset stylesheet
+----------------------------------------------- */
+@import url("-/css/preset.css");
+
+/* Main stylesheet
+----------------------------------------------- */
+@import url("-/css/master.css");
